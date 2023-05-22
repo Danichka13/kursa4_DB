@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\KursWork\KursWork\obj\Debug\KursWork.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\KursWork\KursWork\obj\Debug\KursWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\KursWork\KursWork\obj\Debug\KursWork.sing_up.resources
+C:\Users\Пользователь\source\repos\KursWork\KursWork\obj\Debug\KursWork.log_in.resources
+C:\Users\Пользователь\source\repos\KursWork\KursWork\obj\Debug\KursWork.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\KursWork\KursWork\obj\Debug\KursWork.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\KursWork\KursWork\obj\Debug\KursWork.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\KursWork\KursWork\bin\Debug\KursWork.exe.config
+C:\Users\Пользователь\source\repos\KursWork\KursWork\bin\Debug\KursWork.exe
+C:\Users\Пользователь\source\repos\KursWork\KursWork\bin\Debug\KursWork.pdb
+C:\Users\Пользователь\source\repos\KursWork\KursWork\obj\Debug\KursWork.exe
+C:\Users\Пользователь\source\repos\KursWork\KursWork\obj\Debug\KursWork.pdb
+C:\Users\Пользователь\source\repos\KursWork\KursWork\obj\Debug\KursWork.Form1.resources
+C:\Users\Пользователь\source\repos\KursWork\KursWork\obj\Debug\KursWork.AddProduct.resources
+C:\Users\Пользователь\source\repos\KursWork\KursWork\obj\Debug\KursWork.AddBuyer.resources
